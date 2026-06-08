@@ -1,0 +1,44 @@
+# Virtual Environment
+
+venv/
+.venv/
+
+# Python Cache
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+
+.pytest_cache/
+
+# Generated Reports
+
+report.json
+report.txt
+
+# Temporary/Test Files
+
+blank.png
+
+# IDE Files
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Coverage Reports
+
+.coverage
+htmlcov/
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
