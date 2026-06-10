@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Generated Files
+baseline.json
+integrity_report.json
+integrity_report.txt
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# Build Files
+build/
+dist/
+*.egg-info/
