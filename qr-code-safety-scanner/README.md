@@ -70,7 +70,7 @@ qr-code-safety-scanner/
 
 ```bash
 git clone https://github.com/KKA-X/SecureInspect.git
-cd qr-code-safety-scanner
+cd SecureInspect/qr-code-safety-scanner
 ```
 
 ### 2. Create a Virtual Environment
